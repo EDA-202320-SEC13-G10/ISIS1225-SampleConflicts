@@ -34,7 +34,6 @@ The students edit this section to add their names, Uniandes emails, and specify 
 
 1. Student No. 1 Name, Student No. 1 Uniandes Email, Student No. 1 owned functionality.
 1.  Juan Lago, j.lagoa@uniandes.edu.co, est-2.
-
 1. Student No. 3 Name, Student No. 3 Uniandes Email, Student No. 3 owned functionality.
 
 [Back to top](#sample-conflicts)
